@@ -1,5 +1,5 @@
 ## ReceipeApp TableView
-#### Receipe App using Table View 
+#### Receipe App using Table View, display the list of menu and also the details of the food items.
 ### Implement Elementes
 * UILabel
 * UIImageView
