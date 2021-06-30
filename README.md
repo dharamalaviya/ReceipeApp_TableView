@@ -1,6 +1,6 @@
 ## ReceipeApp TableView
 #### Receipe App using Table View 
-### Implement Elemented
+### Implement Elementes
 * UILabel
 * UIImageView
 * UITextView
