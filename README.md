@@ -11,4 +11,4 @@
 * UITableViewDelegate
 
 ### Screenshots
-
+D:\MCA\MCA_SEM2\IOS\Zip_file_Assignment\ReceipeTableView_ScreenShot
